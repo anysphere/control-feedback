@@ -1,2 +1,3 @@
 # control-feedback
-Feedback and thoughts on Control.
+
+Control is currently under closed beta — please check back later!
